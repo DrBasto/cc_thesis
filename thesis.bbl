@@ -1,0 +1,176 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{bentley:1999}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Bentley},
+         familyi={B\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Ad\-dison--Wesley}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ben99}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{edition}{2}
+    \field{title}{{P}rogramming {P}earls}
+    \list{location}{1}{%
+      {Boston, MA, USA}%
+    }
+    \field{year}{1999}
+  \endentry
+
+  \entry{bringhurst:2002}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BR}{%
+         family={Bringhurst},
+         familyi={B\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Hartley \& Marks Publishers}%
+    }
+    \strng{namehash}{BR1}
+    \strng{fullhash}{BR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Bri13}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{series}{Version 4.0: 20th Anniversary Edition}
+    \field{title}{{T}he {E}lements of {T}ypographic {S}tyle}
+    \list{location}{1}{%
+      {Point Roberts, WA, USA}%
+    }
+    \field{year}{2013}
+  \endentry
+
+  \entry{cormen:2001}{book}{}
+    \name{author}{4}{}{%
+      {{hash=CTH}{%
+         family={Cormen},
+         familyi={C\bibinitperiod},
+         given={Thomas\bibnamedelima H.},
+         giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=LCE}{%
+         family={Leiserson},
+         familyi={L\bibinitperiod},
+         given={Charles\bibnamedelima E.},
+         giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=RRL}{%
+         family={Rivest},
+         familyi={R\bibinitperiod},
+         given={Ronald\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Stein},
+         familyi={S\bibinitperiod},
+         given={Clifford},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The MIT Press}%
+    }
+    \strng{namehash}{CTH+1}
+    \strng{fullhash}{CTHLCERRLSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cor+09}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{edition}{3}
+    \field{title}{{I}ntroduction to {A}lgorithms}
+    \list{location}{1}{%
+      {Cambridge, MA, USA}%
+    }
+    \field{year}{2009}
+  \endentry
+
+  \entry{dueck:trio}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DG}{%
+         family={Dueck},
+         familyi={D\bibinitperiod},
+         given={Gunter},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{DG1}
+    \strng{fullhash}{DG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Due13}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{{D}ueck's {T}rilogie 2.1: {O}mnisophie -- {S}upramanie --
+  {T}opothesie}
+    \list{location}{1}{%
+      {Berlin, Germany}%
+    }
+    \field{year}{2013}
+  \endentry
+
+  \entry{knuth:1974}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KDE}{%
+         family={Knuth},
+         familyi={K\bibinitperiod},
+         given={Donald\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM Press}%
+    }
+    \strng{namehash}{KDE1}
+    \strng{fullhash}{KDE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Knu74}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{12}
+    \field{pages}{667\bibrangedash 673}
+    \field{title}{{C}omputer {P}rogramming as an {A}rt}
+    \field{volume}{17}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{Communications of the ACM}
+    \field{year}{1974}
+  \endentry
+\enddatalist
+\endinput
